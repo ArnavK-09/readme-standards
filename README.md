@@ -1,6 +1,6 @@
 <h1 align="center">📝 REPO_NAME 📝</h1>
 <h2 align="center">REPO_SLOGAN</h2>
-
+<hr />
 <p align="center">
     <img alt="hero" width="450" src="https://fav.farm/📝" />
 </p>
