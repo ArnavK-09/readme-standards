@@ -57,7 +57,7 @@ npm i
    Commit your changes and push the branch:
 
    ```bash
-   git commit -m "Description of changes"
+   git commit -m "feat(scope): description"
    git push origin your-feature-branch
    ```
 
