@@ -99,6 +99,15 @@ Found a bug or need help? Please create an issue on the [GitHub repository](http
   </tbody>
 </table>
 
+
+<table>
+  <tbody>
+    <tr>
+        <td align="center" valign="top" width="14.28%"><a href="https://github.com/ArnavK-09"><img src="https://github.com/ArnavK-09.png?s=100" width="100px;" alt="Arnav K"/><br /><strong>Arnav K</strong></a></td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 
 <h2 align="center">📄 License</h2>
