@@ -76,7 +76,7 @@ Found a bug or need help? Please create an issue on the [GitHub repository](http
 <table>
   <tbody>
     <tr>
-        <td align="center" valign="top" width="14.28%"><a href="https://github.com/ArnavK-09"><img src="https://github.com/ArnavK-09.png?s=100" width="150px;" alt="Arnav K"/><hr /><strong>Arnav K</strong></a></td>
+        <td align="center" valign="top" width="14.28%"><a href="https://github.com/ArnavK-09"><img src="https://github.com/ArnavK-09.png?s=100" width="130px;" alt="Arnav K"/><hr /><h4>Arnav K</h4></a></td>
     </tr>
   </tbody>
 </table>
