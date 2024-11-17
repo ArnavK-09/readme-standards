@@ -1,5 +1,5 @@
-<h1 align="center">📝 Readme 📝</h1>
-<h2 align="center">Readme Standards</h2>
+<h1 align="center">📝 REPO_NAME 📝</h1>
+<h2 align="center">REPO_SLOGAN</h2>
 
 <p align="center">
     <img alt="hero" width="450" src="https://github.com/ArnavK-09.png" />
@@ -109,7 +109,7 @@ Found a bug or need help? Please create an issue on the [GitHub repository](http
 
 ---
 
-<h3 align="center">💖 Thanks for Using REPO_NAMEe!</h3>
+<h3 align="center">💖 Thanks for Using REPO_NAME!</h3>
 
 <p align="center">
     <strong>If you find this project helpful, please give it a ⭐ on GitHub!</strong>
