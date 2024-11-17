@@ -85,7 +85,7 @@ Found a bug or need help? Please create an issue on the [GitHub repository](http
 
 <table>
   <tbody>
-    <tr>
+    <tr width="200px">
         <td align="center">🎈 Eat Paneer </td>
     </tr>    <tr>
         <td align="center">🎈 Eat Paneer </td>
