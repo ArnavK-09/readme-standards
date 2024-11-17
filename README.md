@@ -82,23 +82,14 @@ Found a bug or need help? Please create an issue on the [GitHub repository](http
 </table>
 
 
-## 🗺 Roadmap
+## 🛣️ Roadmap
 
-<table>
-  <tbody>
-    <tr>
-        <td align="center">🎈 Eat Paneer </td>
-    </tr>    <tr>
-        <td align="center">🎈 Eat Paneer </td>
-    </tr>    <tr>
-        <td align="center">🎈 Eat Paneer </td>
-    </tr>    <tr>
-        <td align="center">🎈 Eat Paneer </td>
-    </tr>    <tr>
-        <td align="center">🎈 Eat Paneer </td>
-    </tr>
-  </tbody>
-</table>
+|Task | Status |
+| :---: | :---: |
+|🗣️ Create yourself | 🟢  | 
+|🗣️ Create yourself | 🟡 | 
+|🗣️ Create yourself | 🔴  | 
+
 
 ---
 
