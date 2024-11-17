@@ -2,7 +2,7 @@
 <h2 align="center">REPO_SLOGAN</h2>
 
 <p align="center">
-    <img alt="hero" width="450" src="https://github.com/ArnavK-09.png" />
+    <img alt="hero" width="450" src="https://fav.farm/📝" />
 </p>
 
 > [!NOTE]
