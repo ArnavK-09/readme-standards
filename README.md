@@ -2,7 +2,7 @@
 <h2 align="center">REPO_SLOGAN</h2>
 
 <p align="center">
-    <img alt="hero" width="450" src="https://emoji-route.deno.dev/png/📝" />
+    <img alt="hero" width="450" src="https://emoji-route.deno.dev/svg/📝" />
 </p>
 
 > [!NOTE]
