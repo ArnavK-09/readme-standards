@@ -105,5 +105,5 @@ Found a bug or need help? Please create an issue on the [GitHub repository](http
 <h3 align="center">💖 Thanks for Using REPO_NAME!</h3>
 
 <p align="center">
-    <kbd>If you find this project helpful, please give it a ⭐ on GitHub!</kbd>
+    <kbd>If you find this project helpful, please give it a ✯ on GitHub!</kbd>
 </p>
