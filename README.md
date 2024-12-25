@@ -1,4 +1,4 @@
-<h1 align="center">📝 REPO_NAME 📝</h1>
+<h1 align="center">📝 <kbd>REPO_NAME</kbd> 📝</h1>
 <h2 align="center">REPO_SLOGAN</h2>
 
 <p align="center">
