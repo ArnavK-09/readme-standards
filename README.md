@@ -27,7 +27,19 @@
 npm i
 ```
 
+## 📷 Screenshots
+
+> Here's a working and expected screenshot of REPO_NAME
+
+
+
+| Landing Page  |
+|------------|
+| ![Demo](https://github.com/ArnavK-09.png) |
+
+
 ---
+
 
 ## 💻 Contributing
 
