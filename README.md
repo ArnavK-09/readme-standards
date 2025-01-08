@@ -16,7 +16,7 @@
 - **Feature #1** – Description...
 - **Feature #2** – Description...
 
-## 🛠 Installation
+## 💻 Installation
 
 > You can add **REPO_NAME** with one command via:
 
