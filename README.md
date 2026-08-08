@@ -11,8 +11,6 @@
 
 ## 🌟 Features
 
-> **REPO_NAME** features intro:
-
 - **Feature #1** – Description...
 - **Feature #2** – Description...
 
